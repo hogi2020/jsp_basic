@@ -1,2 +1,4 @@
-# jsp_web_basic
+# jsp_basic
 study jsp for web programming
+---
+
